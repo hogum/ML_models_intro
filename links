@@ -1,0 +1,8 @@
+theml book: GD
+https://www.dropbox.com/s/xpd5x6p6jte3th5/Chapter4.pdf?dl=0
+
+perceptron fit function:
+https://github.com/hogum/ML/blob/master/mlearning/supervised/perceptron.py#L44-L70
+
+activation functions implementation
+https://github.com/hogum/ML/blob/master/mlearning/helpers/deep_learning/activation_functions.py
